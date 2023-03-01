@@ -12,8 +12,7 @@
   },
   "dependencies": {
     "react": "^18.2.0",
-    "react-dom": "^18.2.0",
-    "uimix": "file:../uimix/packages/devserver/uimix-0.0.3.tgz"
+    "react-dom": "^18.2.0"
   },
   "devDependencies": {
     "@babel/core": "^7.21.0",
@@ -29,6 +28,7 @@
     "@vitejs/plugin-react": "^3.1.0",
     "babel-loader": "^8.3.0",
     "typescript": "^4.9.3",
+    "uimix": "^0.0.4",
     "vite": "^4.1.0"
   }
 }
